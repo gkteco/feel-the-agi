@@ -6,6 +6,8 @@ Courses:
 - [Practical Deep Learning for Coders (Part 1 & 2)](https://course.fast.ai/)
 
 - [Hugging Face MLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+  
+- [A Hacker's Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 
 Videos:
 
