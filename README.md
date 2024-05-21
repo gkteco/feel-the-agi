@@ -22,6 +22,7 @@ Performance
 Blog Posts:
 
 - [Multimodal Search with Snowflake Embedding and MAX Engine](https://www.modular.com/blog/multimodal-search-with-snowflake-embedding-and-max-engine)
+- [Quantization - How to guide](https://llama.meta.com/docs/how-to-guides/quantization/)
 
 Books:
 
