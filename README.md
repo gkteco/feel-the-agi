@@ -12,10 +12,11 @@ Courses:
 Videos:
 
 - [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA&t=657s)
  
 Performance
 
-- [Triton Compiler](https://www.youtube.com/playlist?list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
+- [Triton Compiler Conference](https://www.youtube.com/playlist?list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
 
 - [PyTorch Conference](https://www.youtube.com/playlist?list=PL_lsbAsL_o2BivkGLiDfHY9VqWlaNoZ2O)
 
