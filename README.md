@@ -32,6 +32,7 @@ Blog Posts:
 Books:
 - [Effective Modern C++](https://www.bugs.frozent.pl/Effective%20Modern%20C++%20(%20PDFDrive.com%20).pdf) (in progress)
 - [Programming Massively Parralel Programs](http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf)
+- [Numerical Linear Algebra](https://www.stat.uchicago.edu/~lekheng/courses/309/books/Trefethen-Bau.pdf) 
   
 Papers:
 [IIya Reading List](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
