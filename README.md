@@ -28,6 +28,7 @@ Blog Posts:
 - [Multimodal Search with Snowflake Embedding and MAX Engine](https://www.modular.com/blog/multimodal-search-with-snowflake-embedding-and-max-engine) (done)
 - [Quantization - How to guide](https://llama.meta.com/docs/how-to-guides/quantization/)
 - [Autodidax: JAX from Scratch](https://jax.readthedocs.io/en/latest/autodidax.html)
+- [PyTorch Wiki](https://github.com/pytorch/pytorch/wiki)
 
 Books:
 - [Effective Modern C++](https://www.bugs.frozent.pl/Effective%20Modern%20C++%20(%20PDFDrive.com%20).pdf) (in progress)
