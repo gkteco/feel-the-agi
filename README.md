@@ -5,6 +5,7 @@
 I am personally working on or have finished these courses/activities. For anything I've done, I'll try my best to write a review of the content for those that would find that useful. I will regularly order the content to have the most relavent (what I'm activly working on) to be first in each list. 
 
 Courses:
+- [Gilbert Strang Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1) (in progress, do this before fastai computational linalg course)
 - [Fastai Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) (in progress)
 - [Practical Deep Learning for Coders (Part 1 & 2)](https://course.fast.ai/) (done)
 - [Hugging Face MLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) (done)
