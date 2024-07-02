@@ -29,6 +29,7 @@ Blog Posts:
 - [Quantization - How to guide](https://llama.meta.com/docs/how-to-guides/quantization/)
 - [Autodidax: JAX from Scratch](https://jax.readthedocs.io/en/latest/autodidax.html)
 - [PyTorch Wiki](https://github.com/pytorch/pytorch/wiki)
+- [Numpy API Reference](https://numpy.org/doc/1.20/reference/arrays.html)
 
 Books:
 - [Effective Modern C++](https://www.bugs.frozent.pl/Effective%20Modern%20C++%20(%20PDFDrive.com%20).pdf) (in progress)
