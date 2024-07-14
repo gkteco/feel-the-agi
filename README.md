@@ -5,6 +5,12 @@
 I am personally working on or have finished these courses/activities. For anything I've done, I'll try my best to write a review of the content for those that would find that useful. I will regularly order the content to have the most relavent (what I'm activly working on) to be first in each list. 
 
 Courses:
+- [Introduction to Algorithms, MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) (this is a pretty good prerequisit)
+- [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+
+These are good prerequisits to computer science in general, good to hit the fundamentals
+--- 
+
 - [David Silver RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) (in progress)
 - [Gilbert Strang Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1) (in progress, do this before fastai computational linalg course)
 - [Fastai Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) (in progress)
